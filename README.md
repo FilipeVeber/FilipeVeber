@@ -27,12 +27,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/FilipeVeber/FilipeVeber/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="right">
   <a href="https://www.linkedin.com/in/filipeveber" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="30" alt="linkedin logo"  />
